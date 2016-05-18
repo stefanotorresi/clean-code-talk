@@ -10,7 +10,7 @@ You can browse the presentation at [stefanotorresi.it/talks/clean-code](https://
 
 ```shell
 $: npm install --production
-$: npm run build
+$: npm run gulp build
 ```
 
 ## Develop
