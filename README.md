@@ -4,7 +4,7 @@ This repo holds a slide presentation about the concepts that Uncle Bob's book ha
 
 ## Browse
 
-You can browse the presentation at [stefanotorresi.it/talks/clean-code-talk](https://stefanotorresi.it/talks/clean-code-talk).
+You can browse the presentation at [stefanotorresi.it/talks/clean-code](https://stefanotorresi.it/talks/clean-code).
 
 ## Install
 
